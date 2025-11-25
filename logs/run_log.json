@@ -1,0 +1,13 @@
+{
+  "query": "Analyze ROAS drop",
+  "timestamp": "2025-11-25 14:31:11.386844",
+  "hypotheses": [
+    {
+      "hypothesis": "ROAS dropped recently",
+      "metric": "roas",
+      "recent_mean": 5.864081606017419,
+      "previous_mean": 6.46903093079572,
+      "relative_change": -0.09351467495671553
+    }
+  ]
+}

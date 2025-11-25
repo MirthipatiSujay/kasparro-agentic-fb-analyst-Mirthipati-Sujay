@@ -1,0 +1,7 @@
+seed: 42
+sample_mode: true
+low_ctr_threshold: 0.02
+confidence_thresholds:
+  high: 0.75
+  medium: 0.5
+  low: 0.25

@@ -1,0 +1,13 @@
+00:00:00.000	INFO	Log             Getscreen.me v3.2.12 build 327
+16:11:24.437	INFO	Monitor         detect monitor '\\.\DISPLAY1' scale:0.800000 size: 0:1080-0:1920 desktop: 0:1080-0:1920
+16:11:24.438	INFO	Monitor         detect monitor '\\.\DISPLAY1' scale:0.800000 size: 0:1080-0:1920 desktop: 0:1080-0:1920
+16:11:24.438	INFO	BlackScreen      initialized
+16:11:24.438	INFO	Monitor         detect monitor '\\.\DISPLAY1' scale:0.800000 size: 0:1080-0:1920 desktop: 0:1080-0:1920
+16:11:24.438	INFO	Capture         select monitor '\\.\DISPLAY1'
+16:11:24.482	INFO	Capture         set frame rate to 30
+16:11:24.482	INFO	Child           frame mark off
+16:11:24.482	INFO	FrameMark       hide frame
+16:11:24.482	INFO	Capture         set monitor #0 active
+16:11:24.559	INFO	Opus            compress stop
+16:11:24.560	INFO	Capture         capture stopped
+16:11:24.575	INFO	Child           get stop message

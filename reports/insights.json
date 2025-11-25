@@ -1,0 +1,11 @@
+[
+  {
+    "hypothesis": "ROAS dropped recently",
+    "metric": "roas",
+    "confidence_score": 0.65,
+    "confidence_label": "medium",
+    "evidence": [
+      "roas change -0.09"
+    ]
+  }
+]

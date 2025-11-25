@@ -1,0 +1,6 @@
+00:00:00.000	INFO	Log             Getscreen.me v3.2.12 build 327
+08:14:06.999	INFO	Monitor         detect monitor '\\.\DISPLAY1' scale:0.800000 size: 0:1080-0:1920 desktop: 0:1080-0:1920
+08:14:07.001	INFO	Monitor         detect monitor '\\.\DISPLAY1' scale:0.800000 size: 0:1080-0:1920 desktop: 0:1080-0:1920
+08:14:07.001	INFO	BlackScreen      initialized
+08:14:07.001	INFO	Monitor         detect monitor '\\.\DISPLAY1' scale:0.800000 size: 0:1080-0:1920 desktop: 0:1080-0:1920
+08:14:07.001	INFO	Capture         select monitor '\\.\DISPLAY1'
