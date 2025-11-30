@@ -1,11 +1,12 @@
 [
   {
-    "hypothesis": "ROAS dropped recently",
+    "hypothesis": "ROAS dropped in the most recent period.",
     "metric": "roas",
+    "driver": "efficiency",
     "confidence_score": 0.65,
     "confidence_label": "medium",
     "evidence": [
-      "roas change -0.09"
+      "roas relative_change=-9.35%"
     ]
   }
 ]
